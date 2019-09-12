@@ -1,5 +1,7 @@
 package Easy;
 
+import java.util.List;
+
 /**
  * DiagonalDifference
  */

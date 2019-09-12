@@ -26,7 +26,7 @@ public class NewYearChaos {
                     q[i-1] = q[i];
                     q[i] = i+1;
                 }
-                // Termination case. Element bribed more than 2 times. 
+                // Termination case. Element bribed more than 2 times.
                 else {
                     System.out.println("Too chaotic");
                     return;
@@ -37,17 +37,3 @@ public class NewYearChaos {
     }
 
 }
-
-//    int count = 0;
-//        for(int i = 0; i < q.length; i++){
-//        // How many bribes has current person done?
-//        if((q[i] - (i+1)) > 2){
-//        System.out.println("Too chaotic");
-//        return;
-//        }
-//        if(q[i] > (i+1))
-//        count += q[i]-(i+1);
-//        else if(i < q.length-1 && q[i] > q[i+1])
-//        count++;
-//        }
-//        System.out.println(count);

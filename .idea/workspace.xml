@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cd484e2-7ccb-49c4-8045-02bd350d52b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MinimumSwaps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Easy/CompareTriplets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/CompareTriplets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Easy/DiagonalDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/DiagonalDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arrays/MinimumSwaps.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="521">
               <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -52,13 +58,13 @@
         <option value="$PROJECT_DIR$/src/ProblemSolving.java" />
         <option value="$PROJECT_DIR$/src/Arrays.java" />
         <option value="$PROJECT_DIR$/src/Yelp/Meals.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/Arrays/LeftRotation.java" />
         <option value="$PROJECT_DIR$/src/Arrays/NewYearChaos.java" />
         <option value="$PROJECT_DIR$/src/Arrays/HourglassSum.java" />
         <option value="$PROJECT_DIR$/src/Easy/DiagonalDifference.java" />
         <option value="$PROJECT_DIR$/src/Easy/CompareTriplets.java" />
         <option value="$PROJECT_DIR$/src/Arrays/MinimumSwaps.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -82,23 +88,6 @@
             <path>
               <item name="Hacker-Rank-Solutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hacker-Rank-Solutions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hacker-Rank-Solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hacker-Rank-Solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hacker-Rank-Solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hacker-Rank-Solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hacker-Rank-Solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hacker-Rank-Solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Easy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -257,18 +246,18 @@
       <workItem from="1567189916635" duration="4416000" />
       <workItem from="1567740880769" duration="1735000" />
       <workItem from="1568226141797" duration="15113000" />
-      <workItem from="1568272404517" duration="5869000" />
+      <workItem from="1568272404517" duration="6110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38429000" />
+    <option name="totallyTimeSpent" value="38670000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -320,7 +309,6 @@
     <entry file="file://$PROJECT_DIR$/src/ProblemSolving.java" />
     <entry file="file://$PROJECT_DIR$/src/Arrays.java" />
     <entry file="file://$PROJECT_DIR$/src/Yelp/Meals.java" />
-    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/src/Arrays/LeftRotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -363,6 +351,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="521">
           <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
         </state>
       </provider>
     </entry>
